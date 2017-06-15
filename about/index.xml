@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About-rsses on Lyofresh Technologies</title>
+    <link>http://lyofresh.com/about/index.xml</link>
+    <description>Recent content in About-rsses on Lyofresh Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://lyofresh.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Us</title>
+      <link>http://lyofresh.com/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lyofresh.com/about/about/</guid>
+      <description>&lt;p&gt;Lyofresh is a food science tech startup leveraging innovative technologies to tackle the world&amp;rsquo;s biggest problem: Hunger.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

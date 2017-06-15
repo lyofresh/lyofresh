@@ -1,1 +1,0 @@
-OSCEDays2017 Hackathon Challenge - Website for Affordable Food Preservation Technology
